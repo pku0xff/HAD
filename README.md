@@ -1,4 +1,4 @@
-# HAD: Hallucination Annotation and Detection
+# HAD
 
 This is the official repository for the paper **HAD: HAllucination Detection Language Models Based on a Comprehensive Hallucination Taxonomy**. We currently release the training and test data used in this work.
 
