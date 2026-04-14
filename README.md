@@ -2,6 +2,8 @@
 
 This is the official repository for the paper **HAD: HAllucination Detection Language Models Based on a Comprehensive Hallucination Taxonomy**. We currently release the training and test data used in this work.
 
+- **Paper**: [HAD: HAllucination Detection Language Models Based on a Comprehensive Hallucination Taxonomy](https://arxiv.org/abs/2510.19318)
+
 ## Download Data
 
 The training data files are not included in this repository. Please download the data archive from the following link and extract it to the project root directory:
@@ -87,3 +89,7 @@ HAD/
 │   └── raw_hallu_data.json       # Raw unfiltered hallucination data
 └── utils.py                  # Utility functions for prompt construction and output parsing
 ```
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) License.
